@@ -21,6 +21,5 @@ This project was developed in Java utilizing Object-Oriented Programming princip
 Java • Java Swing • NetBeans IDE
 
 ## Lessons Learnt ##
-* Designed system UML diagrams applying OOP
-* Using OOP for cleaner, reusable code  
-* FileSystem handling
+* This was my first OOP project, and I followed the agile methodology, by designing the systems first with UML diagrams like sequence, class and use-case. With each iteration, a new function was delivered.  
+* Learned how to store records in a text file through FileSystem handling. It acts as a temporary database, giving me insight about how real-world database systems work.  
